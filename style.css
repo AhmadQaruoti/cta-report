@@ -5,6 +5,14 @@ img {
 #c_name {
   width: 20%;
 }
+.jumbotron {
+  color: white;
+  background-image: url("./images/hero.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+}
 .selector-for-some-widget {
   box-sizing: content-box;
 }
