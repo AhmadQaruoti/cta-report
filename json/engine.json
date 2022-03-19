@@ -1,0 +1,258 @@
+[
+    {
+        "name": "نظام تبريد المحرك",
+        "data": [
+            {
+                "id": "1",
+                "name": "upper cuffs",
+                "name_ar": "الروديتر",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "Calf pellet",
+                "name_ar": "مضخة ماء المحرك",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "pines",
+                "name_ar": "خراطيم الماء",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "نظام التشغيل",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "البطارية 12 فولت",
+                "rate": "2",
+                "reason": "تجاري",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "Brick measurement",
+                "name_ar": "محرك بدء الحركة (السلف)",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "نظام التبريد لنظام الهايبرد",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "الروديتر",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "مضخة ماء نظام الهايبرد",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "خراطيم الماء",
+                "rate": "2",
+                "reason": "تهريب",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "مقدمة المحرك",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "الدينمو",
+                "rate": "2",
+                "reason": "غير ذلك",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "قشاط الدينمو",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "بيل قشاط الدينمو",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "4",
+                "name": "disc measurement",
+                "name_ar": "قشاط التوقيت",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "5",
+                "name": "disc measurement",
+                "name_ar": "بيل قشاط التوقيت",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "المحرك",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "فلتر الهواء",
+                "rate": "2",
+                "reason": "تجاري",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "خراطيم سحب الهواء",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "فلتر الوقود",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "4",
+                "name": "disc measurement",
+                "name_ar": "خراطيم نظام الوقود",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "5",
+                "name": "disc measurement",
+                "name_ar": "البواجي",
+                "rate": "2",
+                "reason": "تجاري",
+                "note": ""
+            },
+            {
+                "id": "6",
+                "name": "disc measurement",
+                "name_ar": "الكويلات (مضخم الشرارة)",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "7",
+                "name": "disc measurement",
+                "name_ar": "قواعد التثبيت العلوية",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "السوائل والزيوت",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "مستوى زيت المحرك",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "مستوى زيت البريك",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "مستوى ماء تبريد المحرك الكثافة النوعية",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "4",
+                "name": "disc measurement",
+                "name_ar": "مستوى ماء نظام الهايبرد الكثافة النوعية",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "الجير",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "قواعد التثبيت العلوية",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "أخرى",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "صنوبرصات غطاء المحرك",
+                "rate": "3",
+                "reason": "كسر",
+                "note": "Must Change"
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "واقيات المحرك",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    }
+]

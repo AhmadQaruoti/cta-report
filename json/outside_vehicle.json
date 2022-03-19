@@ -1,0 +1,404 @@
+[
+    {
+        "name": "نظام المساحات الخلفية",
+        "data": [
+            {
+                "id": "1",
+                "name": "upper cuffs",
+                "name_ar": "جلدة المساحة",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "Calf pellet",
+                "name_ar": "شفرة المساحة كاملة",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "pines",
+                "name_ar": "ذراع المساحة",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "4",
+                "name": "pines",
+                "name_ar": "غطاء ذراع المساحة",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "5",
+                "name": "pines",
+                "name_ar": "مرش ماء المساحة",
+                "rate": "2",
+                "reason": "غير ذلك",
+                "note": "week"
+            }
+        ]
+    },
+    {
+        "name": "نظام المساحات الأمامية",
+        "data": [
+            {
+                "id": "1",
+                "name": "upper cuffs",
+                "name_ar": "جلدة المساحة",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "Calf pellet",
+                "name_ar": "شفرة المساحة كاملة",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "pines",
+                "name_ar": "ذراع المساحة",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "4",
+                "name": "pines",
+                "name_ar": "غطاء ذراع المساحة",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "5",
+                "name": "pines",
+                "name_ar": "مرش ماء المساحات",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "6",
+                "name": "pines",
+                "name_ar": "خزان ماء المساحات",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "7",
+                "name": "pines",
+                "name_ar": "خراطيم ماء المساحات",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "8",
+                "name": "pines",
+                "name_ar": "مضخة ماء المساحات",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "نظام التنبيه الأمامية",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "الزمور H",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "الزمور L",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "ضوء النمرة",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "وحدة ضوء النمرة",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "لمبة النمرة",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "ضوء البريك على الزجاج الخلفي",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "وحدة ضوء البريك على الزجاج الخلفي",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "لمبة ضوء البريك",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "حساسات الاصطفاف الخلفية",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "حساس يمين على الطرف",
+                "rate": "3",
+                "reason": "كسر",
+                "note": "Broken Must Change"
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "حساس يمين في الوسط",
+                "rate": "2",
+                "reason": "تالف/لا يعمل",
+                "note": "Lacked Wire"
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "حساس يسار في الوسط",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "4",
+                "name": "disc measurement",
+                "name_ar": "حساس يسار على الطرف",
+                "rate": "3",
+                "reason": "تالف/لا يعمل",
+                "note": "Not working"
+            }
+        ]
+    },
+    {
+        "name": "حساسات الاصطفاف الأمامية",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "حساس يمين على الطرف",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "حساس يمين في الوسط",
+                "rate": "2",
+                "reason": "غير ذلك",
+                "note": "Interrupting"
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "حساس يسار في الوسط",
+                "rate": "3",
+                "reason": "تالف/لا يعمل",
+                "note": "Not working"
+            },
+            {
+                "id": "4",
+                "name": "disc measurement",
+                "name_ar": "حساس يسار على الطرف",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "الأضوية الخلفية",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "وحدة الضوء الخلفي",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "لمبة البريك",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+              "id": "3",
+              "name": "pines",
+              "name_ar": "لمبة الغاز",
+              "rate": "3",
+              "reason": "تالف/لا يعمل",
+              "note": "Change"
+            },
+            {
+              "id": "4",
+              "name": "balance shaft",
+              "name_ar": "لمبة الريفيرس",
+              "rate": "1",
+              "reason": "",
+              "note": ""
+            },
+            {
+              "id": "5",
+              "name": "Balance column skins",
+              "name_ar": "لمبة الضباب",
+              "rate": "3",
+              "reason": "تالف/لا يعمل",
+              "note": "Change"
+            }
+        ]
+    },
+    {
+        "name": "الأضوية الأمامية",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "وحدة الضوء الأمامي",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "لمبة الانارة (العالي)",
+                "rate": "2",
+                "reason": "تجاري",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "لمبة الانارة (الواطي)",
+                "rate": "2",
+                "reason": "تجاري",
+                "note": ""
+            },
+            {
+              "id": "4",
+              "name": "balance shaft",
+              "name_ar": "لمبة طقة اولى LED",
+              "rate": "1",
+              "reason": "",
+              "note": ""
+            },
+            {
+              "id": "5",
+              "name": "Balance column skins",
+              "name_ar": "لمبة غماز",
+              "rate": "1",
+              "reason": "",
+              "note": ""
+            },
+            {
+              "id": "6",
+              "name": "lower cuffs",
+              "name_ar": "لمبة كشاف",
+              "rate": "3",
+              "reason": "تالف/لا يعمل",
+              "note": "change"
+            },
+            {
+              "id": "7",
+              "name": "spherical joint",
+              "name_ar": "لمبة غماز على المرآة او الجناح",
+              "rate": "1",
+              "reason": "",
+              "note": ""
+            },
+            {
+              "id": "8",
+              "name": "mud guard",
+              "name_ar": "مرش ماء الأضوية",
+              "rate": "2",
+              "reason": "غير ذلك",
+              "note": "week"
+            }
+        ]
+    },
+    {
+        "name": "أخرى",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "الشبك الأمامي (الشل)",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "ششعار المركبة",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "الأنتين الهوائي",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "4",
+                "name": "disc measurement",
+                "name_ar": "حمالة النمر",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    }
+]

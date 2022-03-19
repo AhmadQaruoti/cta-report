@@ -1,0 +1,161 @@
+[
+  {
+    "name": "مجموعة العجل",
+    "data": [
+      {
+        "id": "1",
+        "name": "upper cuffs",
+        "name_ar": "الكفات العلوية",
+        "rate": "1",
+        "reason": "",
+        "note": ""
+      },
+      {
+        "id": "2",
+        "name": "Calf pellet",
+        "name_ar": "بيلية العجل",
+        "rate": "1",
+        "reason": "",
+        "note": ""
+      },
+      {
+        "id": "3",
+        "name": "pines",
+        "name_ar": "الصنوبرص",
+        "rate": "3",
+        "reason": "كسر",
+        "note": "Broken"
+      },
+      {
+        "id": "4",
+        "name": "balance shaft",
+        "name_ar": "عمود التوازن",
+        "rate": "1",
+        "reason": "",
+        "note": ""
+      },
+      {
+        "id": "5",
+        "name": "Balance column skins",
+        "name_ar": "جلود عمدان التوازن",
+        "rate": "1",
+        "reason": "",
+        "note": ""
+      },
+      {
+        "id": "6",
+        "name": "lower cuffs",
+        "name_ar": "كفات سفلية",
+        "rate": "3",
+        "reason": "تالف/لا يعمل",
+        "note": "change"
+      },
+      {
+        "id": "7",
+        "name": "spherical joint",
+        "name_ar": "المفصل الكروي (البيضة)",
+        "rate": "1",
+        "reason": "",
+        "note": ""
+      },
+      {
+        "id": "8",
+        "name": "mud guard",
+        "name_ar": "واقية الوحل",
+        "rate": "1",
+        "reason": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "name": "الفرامل",
+    "data": [
+      {
+        "id": "1",
+        "name": "disc measurement",
+        "name_ar": "قياس الدسك",
+        "rate": "1",
+        "reason": "",
+        "note": ""
+      },
+      {
+        "id": "2",
+        "name": "Brick measurement",
+        "name_ar": "قياس البريك",
+        "rate": "2",
+        "reason": "استهلاك",
+        "note": ""
+      },
+      {
+        "id": "3",
+        "name": "sajyat brik",
+        "name_ar": "صاجيات بريك",
+        "rate": "2",
+        "reason": "تالف/لا يعمل",
+        "note": ""
+      },
+      {
+        "id": "4",
+        "name": "balance shaft",
+        "name_ar": "كباشي البريك",
+        "rate": "1",
+        "reason": "",
+        "note": ""
+      },
+      {
+        "id": "5",
+        "name": "Balance column skins",
+        "name_ar": "مخ البريك",
+        "rate": "2",
+        "reason": "استهلاك",
+        "note": ""
+      },
+      {
+        "id": "6",
+        "name": "lower cuffs",
+        "name_ar": "خراطيم نظام البريك",
+        "rate": "1",
+        "reason": "",
+        "note": ""
+      },
+      {
+        "id": "7",
+        "name": "spherical joint",
+        "name_ar": "فرامل الهندبريك",
+        "rate": "2",
+        "reason": "استهلاك",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "name": "الاطارات",
+    "data": [
+      {
+        "id": "1",
+        "name": "disc measurement",
+        "name_ar": "الاطار",
+        "rate": "2",
+        "reason": "استهلاك",
+        "note": ""
+      },
+      {
+        "id": "2",
+        "name": "disc measurement",
+        "name_ar": "صورة",
+        "rate": "1",
+        "reason": "",
+        "note": ""
+      },
+      {
+        "id": "3",
+        "name": "disc measurement",
+        "name_ar": "غيار هواء العجلات",
+        "rate": "2",
+        "reason": "غير ذلك",
+        "note": ""
+      }
+    ]
+  }
+]

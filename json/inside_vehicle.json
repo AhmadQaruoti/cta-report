@@ -1,0 +1,252 @@
+[
+    {
+        "name": "نظام التدفئة والتبريد للهواء",
+        "data": [
+            {
+                "id": "1",
+                "name": "upper cuffs",
+                "name_ar": "كمية غاز المكيف",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "Calf pellet",
+                "name_ar": "اداء المكيف",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "pines",
+                "name_ar": "فلتر المكيف",
+                "rate": "3",
+                "reason": "تالف/لا يعمل",
+                "note": "dirty"
+            },
+            {
+                "id": "4",
+                "name": "pines",
+                "name_ar": "اداء الدفاية",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "لوحة العدادات",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "الأضوية التحذيرية",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "النوافذ",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "لوحة التحكم بالنوافذ الرئيسية",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "كبسة التحكم بالنافذة للراكب (يمين)",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "كبسة التحكم بالنافذة الخلفية يمين",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "4",
+                "name": "disc measurement",
+                "name_ar": "كبسة التحكم بالنافذة الخلفية يسار",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "النظام الهوائي",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "المسجل او الشاشة",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "الموري الجانبية",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "المرآة الجانبية شمال",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "المرآة الجانبية يمين",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "كبسة التحكم بالمرآة",
+                "rate": "3",
+                "reason": "تالف/لا يعمل",
+                "note": "fix & change"
+            }
+        ]
+    },
+    {
+        "name": "الشمسية للحماية من اشعة الشمس",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "شمسية السائق يسار",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "شمسية الراكب يمين",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "الأضوية الداخلية للغرفة",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "ضوء الغرفة الامامي",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "ضوء الغرفة الخلفي",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "أدوات التحكم للسائق",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "عجلة القيادة",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "مفتاح التحكم بالأضوية الأمامية",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "مفتاح التحكم بالمساحات",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "احزمة الامان في المركبة",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "حزام امان السائق",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "2",
+                "name": "disc measurement",
+                "name_ar": "كبسة أمان الراكب",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "3",
+                "name": "disc measurement",
+                "name_ar": "حزام أمان خلفي يسار",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            },
+            {
+                "id": "4",
+                "name": "disc measurement",
+                "name_ar": "حزام أمان خلفي يمين",
+                "rate": "1",
+                "reason": "",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "name": "أجزاء نظام الهايبرد",
+        "data": [
+            {
+                "id": "1",
+                "name": "disc measurement",
+                "name_ar": "فلتر الهايبرد",
+                "rate": "2",
+                "reason": "استهلاك",
+                "note": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Guidance system",
+    "name_ar": "(مجموعة ستيرنغ)نظام التوجيه",
+    "rate": "1",
+    "reason": "",
+    "note": ""
+  },
+  {
+    "id": "2",
+    "name": "Front Dongle",
+    "name_ar": "الدنجل الأمامي",
+    "rate": "1",
+    "reason": "",
+    "note": ""
+  },
+  {
+    "id": "3",
+    "name": "lower engine mounts",
+    "name_ar": "قواعد المحرك السفلية",
+    "rate": "1",
+    "reason": "",
+    "note": ""
+  },
+  {
+    "id": "4",
+    "name": "Gearbox",
+    "name_ar": "صندوق التروس (الجير)",
+    "rate": "1",
+    "reason": "",
+    "note": ""
+  },
+  {
+    "id": "5",
+    "name": "front transmission shaft",
+    "name_ar": "عمود نقل الحركة الأمامي",
+    "rate": "1",
+    "reason": "",
+    "note": ""
+  },
+  {
+    "id": "6",
+    "name": "rear transmission shaft",
+    "name_ar": "عمود نقل الحركة الخلفي",
+    "rate": "1",
+    "reason": "",
+    "note": ""
+  },
+  {
+    "id": "7",
+    "name": "Front differential",
+    "name_ar": "مجموعة التروس التفاضلية الأمامية",
+    "rate": "1",
+    "reason": "",
+    "note": ""
+  },
+  {
+    "id": "8",
+    "name": "Lowgear system",
+    "name_ar": "مجموعة اللوجير",
+    "rate": "1",
+    "reason": "",
+    "note": ""
+  },
+  {
+    "id": "9",
+    "name": "Front differential",
+    "name_ar": "مجموعة التروس التفاضلية الخلفية",
+    "rate": "1",
+    "reason": "",
+    "note": ""
+  },
+  {
+    "id": "10",
+    "name": "exhaust ducts",
+    "name_ar": "مجاري العادم",
+    "rate": "2",
+    "reason": "استهلاك",
+    "note": ""
+  },
+  {
+    "id": "11",
+    "name": "back dongle",
+    "name_ar": "الدنجل الخلفي",
+    "rate": "2",
+    "reason": "تجاري",
+    "note": ""
+  },
+  {
+    "id": "12",
+    "name": "Undercarriage guard",
+    "name_ar": "واقية المركبة السفلية",
+    "rate": "3",
+    "reason": "كسر",
+    "note": "Not Existooo"
+  }
+]
