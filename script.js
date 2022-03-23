@@ -91,7 +91,7 @@ async function loading_page() {
           element.rate = `<i class="fa-solid fa-circle-exclamation fa-1x text-warning"></i>`;
         else
           element.rate = `<i class="fa-solid fa-circle-xmark fa-1x text-danger"></i>`;
-        btb_table.innerHTML += `<tr><td><a href="test"><i class="fa-solid fa-2x fa-camera"></i></a></td><td>${element.note}</td><td>${element.reason}</td><td>${element.rate}</td><td>${element.name}<br>${element.name_ar}</td></tr>`;
+        btb_table.innerHTML += `<tr><td><img src='https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-camera-512.png' id='myImg' src='https://i.morioh.com/210221/cc52084b.webp' alt='Snow' style='width:100%;max-width:300px'></td><td>${element.note}</td><td>${element.reason}</td><td>${element.rate}</td><td>${element.name}<br>${element.name_ar}</td></tr>`;
       });
       });
     })
@@ -163,7 +163,7 @@ await fetch("json/inside_vehicle.json")
     console.log(err);
   });
 
-  //load خعفسهيث vehicle details
+  //load inside vehicle details
 var ov_data; //iv is inside vehicle
 await fetch("json/outside_vehicle.json")
   .then((response) => {
@@ -194,6 +194,23 @@ await fetch("json/outside_vehicle.json")
   .catch((err) => {
     console.log(err);
   });
+
+  const gaugeElement = document.querySelector(".gauge");
+
+function setGaugeValue(gauge, value) {
+  if (value < 0 || value > 1) {
+    return;
+  }
+
+  gauge.querySelector(".gauge__fill").style.transform = `rotate(${
+    value / 2
+  }turn)`;
+  gauge.querySelector(".gauge__cover").textContent = `${Math.round(
+    value * 100
+  )}%`;
+}
+
+setGaugeValue(gaugeElement, 0.6);
 
 
 
