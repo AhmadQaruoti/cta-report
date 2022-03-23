@@ -14,9 +14,9 @@ async function loading_page() {
     });
   let company = (document.getElementById("c_name").src = c_name.image);
   if (c_name.name === "Toyota")
-    document.getElementById("nav").classList =
-      "navbar navbar-light bg-light px-5 mb-3 border-3 border-bottom border-danger";
-
+    document.getElementById("nav").classList ="navbar navbar-light bg-light px-5 border-3 border-bottom border-danger";
+  else 
+  document.getElementById("nav").classList ="navbar navbar-light bg-light px-5 border-4 border-bottom border-dark";
 
   //load customer details
   var cu_data; //cu is customer
